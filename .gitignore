@@ -1,0 +1,31 @@
+# Pastas com arquivos gerados
+/assets/img/
+/assets/pdf/
+/logs/
+
+# Arquivos de configuração sensíveis
+.env
+*.log
+*.tmp
+*.cache
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+composer.lock
+
+# Backup
+*.zip
+*.rar
+*.bak
+*.old
