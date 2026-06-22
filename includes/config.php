@@ -13,6 +13,12 @@ define('ALLOWED_EXTENSIONS', ['png', 'jpeg', 'jpg']);
 define('UPLOAD_IMG_DIR', 'assets/img/');
 define('UPLOAD_PDF_DIR', 'assets/pdf/');
 
+// Configurações de Banco (Opcional)
+define('DB_HOST', 'myshared2069');
+define('DB_USER', 'tanquedigital');
+define('DB_NAME', 'tanquedigital');
+define('DB_PASS', 'Akiles1539@@##');
+
 // Configuração de Timezone
 date_default_timezone_set(TIMEZONE);
 
